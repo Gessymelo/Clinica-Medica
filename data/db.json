@@ -1,14 +1,22 @@
 {
-    "Pacientes":[
-        {
-            "id": 1,
-            "nome": "gessica melo",
-            "telefone": "(67) 3899-3544",
-            "sexo": "feminino",
-            "cpf": "544.708.264-13",
-            "rg": "16.261.512-7",
-            "plano": "Unimed"
-
-        }
-    ]
+  "Pacientes": [
+    {
+      "id": 1,
+      "nome": "gessica melo",
+      "telefone": "(67) 3899-3544",
+      "sexo": "feminino",
+      "cpf": "544.708.264-13",
+      "rg": "16.261.512-7",
+      "plano": "Unimed"
+    },
+    {
+      "id": 2,
+      "nome": "Felipe alcantara",
+      "telefone": "(67) 3899-3544",
+      "sexo": "Masculino",
+      "cpf": "407.556.850-40",
+      "rg": "10.052.245-2",
+      "plano": "Smile"
+    }
+  ]
 }
